@@ -1,0 +1,9 @@
+MIDlet-1: NCrowd,/icon_crowd.png,NCrowd.NCrowdMIDlet
+MIDlet-2: NLabyrinth,/icon_lab.png,NLabyrinth.NLabyrinthMIDlet
+MIDlet-Jar-Size: 39895
+MIDlet-Jar-URL: jTest.jar
+MIDlet-Name: jTest
+MIDlet-Vendor: Necro
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
